@@ -1,0 +1,9 @@
+mainCharacterMagic1 = 0 0 180 144
+mainCharacterMagic2 = 182 0 180 144
+mainCharacterMagic3 = 364 0 180 144
+mainCharacterMagic4 = 546 0 180 144
+mainCharacterMagic5 = 728 0 180 144
+mainCharacterMagic6 = 910 0 180 144
+mainCharacterMagic7 = 1092 0 180 144
+mainCharacterMagic8 = 1274 0 180 144
+mainCharacterMagic9 = 1456 0 180 144

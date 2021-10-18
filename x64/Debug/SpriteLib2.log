@@ -1,0 +1,137 @@
+﻿  window.cpp
+  vector3.cpp
+  text.cpp
+  sprite.cpp
+  shapes.cpp
+  shader.cpp
+  matrix4x4.cpp
+  Sausage.cpp
+  Projectile_E.cpp
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\projectile_e.cpp(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\projectile_e.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\projectile_e.cpp(108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Projectile.cpp
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\projectile.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\projectile.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\projectile.cpp(115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  mainCharacter.cpp
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(17): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(156): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(157): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(162): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(163): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(171): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(172): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(178): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(238): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(239): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(244): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(245): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(250): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(251): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(256): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(257): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(313): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(314): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(456): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(463): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(470): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(486): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(493): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(500): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(846): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(852): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(914): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(956): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(961): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\maincharacter.cpp(966): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+  main.cpp
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(169): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(170): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(174): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(175): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(182): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(183): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(187): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(188): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(262): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(263): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(267): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(268): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(272): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(273): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(277): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(278): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(369): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(370): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(718): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(719): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(720): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(721): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(722): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(723): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(725): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(726): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(840): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(851): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(862): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(1082): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\main.cpp(1146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Kiss.cpp
+  Lollipop.cpp
+  Enemy.cpp
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\enemy.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\enemy.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Doritos.cpp
+  controller.cpp
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\controller.cpp(180): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+c:\users\100621699\desktop\spritelib2_tip_gdw v1.27\spritelib2\controller.cpp(181): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+  Generating Code...
+controller.obj : error LNK2019: unresolved external symbol XInputGetState referenced in function "public: bool __cdecl Input2::XBoxInput::DownloadPackets(unsigned int)" (?DownloadPackets@XBoxInput@Input2@@QEAA_NI@Z)
+controller.obj : error LNK2019: unresolved external symbol XInputSetState referenced in function "public: __cdecl Input2::XBoxInput::XBoxInput(void)" (??0XBoxInput@Input2@@QEAA@XZ)
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::Sound::Sound(void)" (??0Sound@sf@@QEAA@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: virtual __cdecl sf::Sound::~Sound(void)" (??1Sound@sf@@UEAA@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::SoundBuffer::SoundBuffer(void)" (??0SoundBuffer@sf@@QEAA@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl sf::SoundBuffer::~SoundBuffer(void)" (??1SoundBuffer@sf@@QEAA@XZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: bool __cdecl sf::SoundBuffer::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadFromFile@SoundBuffer@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function main
+shader.obj : error LNK2001: unresolved external symbol __glewAttachShader
+shader.obj : error LNK2001: unresolved external symbol __glewCompileShader
+shader.obj : error LNK2001: unresolved external symbol __glewCreateProgram
+shader.obj : error LNK2001: unresolved external symbol __glewCreateShader
+shader.obj : error LNK2001: unresolved external symbol __glewDeleteProgram
+shader.obj : error LNK2001: unresolved external symbol __glewDeleteShader
+shader.obj : error LNK2001: unresolved external symbol __glewGetShaderInfoLog
+shader.obj : error LNK2001: unresolved external symbol __glewGetShaderiv
+shader.obj : error LNK2001: unresolved external symbol __glewGetUniformLocation
+shader.obj : error LNK2001: unresolved external symbol __glewLinkProgram
+shader.obj : error LNK2001: unresolved external symbol __glewShaderSource
+shader.obj : error LNK2001: unresolved external symbol __glewUniform1f
+shader.obj : error LNK2001: unresolved external symbol __glewUniform1i
+shader.obj : error LNK2001: unresolved external symbol __glewUniform2f
+shader.obj : error LNK2001: unresolved external symbol __glewUniform3f
+shader.obj : error LNK2001: unresolved external symbol __glewUniform4f
+shader.obj : error LNK2001: unresolved external symbol __glewUniformMatrix4fv
+shader.obj : error LNK2001: unresolved external symbol __glewUseProgram
+shapes.obj : error LNK2001: unresolved external symbol __glewUseProgram
+sprite.obj : error LNK2001: unresolved external symbol __glewUseProgram
+text.obj : error LNK2001: unresolved external symbol __glewUseProgram
+sprite.obj : error LNK2001: unresolved external symbol __glewActiveTexture
+text.obj : error LNK2001: unresolved external symbol __glewActiveTexture
+sprite.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+sprite.obj : error LNK2001: unresolved external symbol __glewBufferData
+sprite.obj : error LNK2001: unresolved external symbol __glewDeleteBuffers
+sprite.obj : error LNK2001: unresolved external symbol __glewGenBuffers
+sprite.obj : error LNK2001: unresolved external symbol __glewDisableVertexAttribArray
+sprite.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
+sprite.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
+sprite.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
+sprite.obj : error LNK2001: unresolved external symbol __glewDeleteVertexArrays
+sprite.obj : error LNK2001: unresolved external symbol __glewGenVertexArrays
+window.obj : error LNK2019: unresolved external symbol glewInit referenced in function "public: class spritelib::Window & __cdecl spritelib::Window::init(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned int,unsigned int,bool)" (?init@Window@spritelib@@QEAAAEAV12@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@II_N@Z)
+window.obj : error LNK2001: unresolved external symbol __glewBlendFuncSeparate
+C:\Users\100621699\Desktop\spritelib2_tip_GDW V1.27\SpriteLib2\lib\Xinput9_1_0.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\100621699\Desktop\spritelib2_tip_GDW V1.27\SpriteLib2\lib\glew32s.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+C:\Users\100621699\Desktop\spritelib2_tip_GDW V1.27\x64\Debug\SpriteLib2.exe : fatal error LNK1120: 38 unresolved externals

@@ -1,0 +1,169 @@
+﻿  mainCharacter.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(159): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(160): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(165): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(166): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(174): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(175): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(180): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(181): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(238): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(239): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(244): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(245): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(250): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(251): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(256): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(257): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(313): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(314): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(453): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(604): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(851): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(975): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(980): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\maincharacter.cpp(985): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+  main.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(204): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(205): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(209): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(210): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(218): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(222): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(223): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(293): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(294): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(298): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(299): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(303): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(304): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(308): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(309): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(400): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(401): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(559): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(576): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(593): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(610): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1308): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1332): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1336): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1351): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1352): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1357): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1373): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1374): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1394): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1414): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1415): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1437): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1458): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1459): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1460): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1493): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1494): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1495): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1496): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1539): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1540): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1541): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1542): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1599): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1600): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1601): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1602): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1653): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1674): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1676): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1710): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1748): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1773): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1794): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1817): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1838): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1908): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(1924): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2046): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2108): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2166): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2215): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2257): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2299): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2348): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2397): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\main.cpp(2437): warning C4018: '<': signed/unsigned mismatch
+  controller.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\controller.cpp(180): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\controller.cpp(181): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+  babyTomato.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\babytomato.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\babytomato.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\babytomato.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\babytomato.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\babytomato.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  Sausage.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\sausage.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\sausage.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\sausage.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\sausage.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  Projectile_E.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\projectile_e.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\projectile_e.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\projectile_e.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Projectile.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\projectile.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\projectile.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\projectile.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\projectile.cpp(117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Lollipop.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\lollipop.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\lollipop.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\lollipop.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\lollipop.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  Kiss.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\kiss.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\kiss.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\kiss.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\kiss.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\kiss.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\enemy.cpp(249): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\enemy.cpp(270): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\enemy.cpp(271): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Doritos.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\doritos.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\doritos.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\doritos.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\doritos.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\doritos.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  Boss.cpp
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(12): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(119): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(210): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(263): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(264): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(340): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(389): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(451): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(500): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(588): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(661): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(676): warning C4018: '<': signed/unsigned mismatch
+c:\users\100622415\desktop\spritelib2_tip_gdw v1.47\spritelib2_tip_gdw v1.47\spritelib2\boss.cpp(691): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\100622415\Desktop\spritelib2_tip_GDW V1.47\spritelib2_tip_GDW V1.47\Debug\vc120.pdb'; linking object as if no debug info
+  SpriteLib2.vcxproj -> C:\Users\100622415\Desktop\spritelib2_tip_GDW V1.47\spritelib2_tip_GDW V1.47\Debug\SpriteLib2.exe
+  SpriteLib2.vcxproj -> C:\Users\100622415\Desktop\spritelib2_tip_GDW V1.47\spritelib2_tip_GDW V1.47\Debug\SpriteLib2.pdb (Full PDB)

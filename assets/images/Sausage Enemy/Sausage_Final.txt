@@ -1,0 +1,3 @@
+sausageEnemy = 0 0 159 375
+sausageEnemyDead = 161 0 159 375
+sausageEnemyPushBack = 322 0 159 375

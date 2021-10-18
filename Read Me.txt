@@ -1,0 +1,6 @@
+VERSION 1.43
+
+BUGS:
+ - Exit throws exception
+ - Walls is very glitchy you can get stuck or walk where you're not supposed to
+ - Boss throws exception when he dies

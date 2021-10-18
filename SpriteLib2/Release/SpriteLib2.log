@@ -1,0 +1,182 @@
+﻿  babyTomato.cpp
+babyTomato.cpp(18): warning C4018: '<': signed/unsigned mismatch
+babyTomato.cpp(30): warning C4018: '<': signed/unsigned mismatch
+babyTomato.cpp(42): warning C4018: '<': signed/unsigned mismatch
+babyTomato.cpp(59): warning C4018: '<': signed/unsigned mismatch
+babyTomato.cpp(71): warning C4018: '<': signed/unsigned mismatch
+  Boss.cpp
+Boss.cpp(12): warning C4305: '=': truncation from 'double' to 'float'
+Boss.cpp(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+Boss.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(119): warning C4305: 'initializing': truncation from 'double' to 'float'
+Boss.cpp(172): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(210): warning C4305: 'initializing': truncation from 'double' to 'float'
+Boss.cpp(263): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(264): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(340): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(389): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(451): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(500): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(588): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Boss.cpp(661): warning C4018: '<': signed/unsigned mismatch
+Boss.cpp(676): warning C4018: '<': signed/unsigned mismatch
+Boss.cpp(691): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  controller.cpp
+controller.cpp(180): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+controller.cpp(181): warning C4244: '=': conversion from 'float' to 'WORD', possible loss of data
+  Doritos.cpp
+Doritos.cpp(20): warning C4018: '<': signed/unsigned mismatch
+Doritos.cpp(32): warning C4018: '<': signed/unsigned mismatch
+Doritos.cpp(49): warning C4018: '<': signed/unsigned mismatch
+Doritos.cpp(61): warning C4018: '<': signed/unsigned mismatch
+Doritos.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  Enemy.cpp
+Enemy.cpp(270): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Enemy.cpp(271): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lollipop.cpp
+Lollipop.cpp(56): warning C4018: '<': signed/unsigned mismatch
+Lollipop.cpp(68): warning C4018: '<': signed/unsigned mismatch
+Lollipop.cpp(82): warning C4018: '<': signed/unsigned mismatch
+Lollipop.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  Kiss.cpp
+Kiss.cpp(17): warning C4018: '<': signed/unsigned mismatch
+Kiss.cpp(29): warning C4018: '<': signed/unsigned mismatch
+Kiss.cpp(46): warning C4018: '<': signed/unsigned mismatch
+Kiss.cpp(58): warning C4018: '<': signed/unsigned mismatch
+Kiss.cpp(89): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+main.cpp(204): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(205): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(209): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(210): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(217): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(218): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(222): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(223): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(293): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(294): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(298): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(299): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(303): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(304): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(308): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(309): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(400): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(401): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(559): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(576): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(593): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(610): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1204): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1308): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(1332): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1336): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1351): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1352): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1357): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1373): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1374): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1394): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1414): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1415): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1437): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1458): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1459): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1460): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1493): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1494): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1495): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1496): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1539): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1540): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1541): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1542): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1599): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1600): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1601): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1602): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1653): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1674): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1676): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(1710): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1748): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1773): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1794): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1817): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1838): warning C4018: '<': signed/unsigned mismatch
+main.cpp(1908): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(1924): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(2046): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2108): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2166): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2215): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2257): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2299): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2348): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2397): warning C4018: '<': signed/unsigned mismatch
+main.cpp(2437): warning C4018: '<': signed/unsigned mismatch
+  mainCharacter.cpp
+mainCharacter.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(19): warning C4305: '=': truncation from 'double' to 'float'
+mainCharacter.cpp(159): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(160): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(165): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(166): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(174): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(175): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(180): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(181): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(238): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(239): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(244): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(245): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(250): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(251): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(256): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(257): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(313): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(314): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+mainCharacter.cpp(453): warning C4018: '<': signed/unsigned mismatch
+mainCharacter.cpp(604): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+mainCharacter.cpp(851): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+mainCharacter.cpp(975): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+mainCharacter.cpp(980): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+mainCharacter.cpp(985): warning C4800: 'const int': forcing value to bool 'true' or 'false' (performance warning)
+  Projectile.cpp
+Projectile.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Projectile.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Projectile.cpp(100): warning C4018: '<': signed/unsigned mismatch
+Projectile.cpp(117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Projectile_E.cpp
+Projectile_E.cpp(68): warning C4018: '<': signed/unsigned mismatch
+Projectile_E.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Projectile_E.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sausage.cpp
+Sausage.cpp(19): warning C4018: '<': signed/unsigned mismatch
+Sausage.cpp(36): warning C4018: '<': signed/unsigned mismatch
+Sausage.cpp(51): warning C4018: '<': signed/unsigned mismatch
+Sausage.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  matrix4x4.cpp
+  shader.cpp
+  shapes.cpp
+  sprite.cpp
+  text.cpp
+  vector3.cpp
+  window.cpp
+  Vector2.cpp
+  Compiling...
+  Wall.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2512 of 2517 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    158 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\100622415\Desktop\spritelib2_tip_GDW V1.47\spritelib2_tip_GDW V1.47\Release\vc120.pdb'; linking object as if no debug info
+  SpriteLib2.vcxproj -> C:\Users\100622415\Desktop\spritelib2_tip_GDW V1.47\spritelib2_tip_GDW V1.47\Release\SpriteLib2.exe
+  SpriteLib2.vcxproj -> C:\Users\100622415\Desktop\spritelib2_tip_GDW V1.47\spritelib2_tip_GDW V1.47\Release\SpriteLib2.pdb (Full PDB)

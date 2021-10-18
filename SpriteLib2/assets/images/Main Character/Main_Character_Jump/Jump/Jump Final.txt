@@ -1,0 +1,9 @@
+mainCharacterJump1 = 0 0 180 144
+mainCharacterJump2_a = 182 0 180 144
+mainCharacterJump2_b = 364 0 180 144
+mainCharacterJump2_c = 546 0 180 144
+mainCharacterJump3 = 728 0 180 144
+mainCharacterJump4 = 910 0 180 144
+mainCharacterJump5 = 1092 0 180 144
+mainCharacterJump6 = 1274 0 180 144
+mainCharacterJump7 = 1456 0 180 144

@@ -1,0 +1,11 @@
+mainCharacterAttack_A = 0 0 180 144
+mainCharacterAttack_B = 182 0 180 144
+mainCharacterAttack_C = 364 0 180 144
+mainCharacterAttack_D = 546 0 180 144
+mainCharacterAttack_E = 728 0 180 144
+mainCharacterAttack_F = 910 0 180 144
+mainCharacterAttack_G = 1092 0 180 144
+mainCharacterAttack_H = 1274 0 180 144
+mainCharacterAttack_I = 1456 0 180 144
+mainCharacterAttack_J = 1638 0 180 144
+mainCharacterAttack_K = 1820 0 180 144

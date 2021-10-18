@@ -1,0 +1,9 @@
+mainCharacter_Run_1 = 0 0 180 144
+mainCharacter_Run_2 = 182 0 180 144
+mainCharacter_Run_3 = 364 0 180 144
+mainCharacter_Run_4 = 546 0 180 144
+mainCharacter_Run_5_FLIP THE LEGS = 728 0 180 144
+mainCharacter_Run_6 = 910 0 180 144
+mainCharacter_Run_7 = 1092 0 180 144
+mainCharacter_Run_8 = 1274 0 180 144
+mainCharacter_Run_9 = 1456 0 180 144

@@ -1,0 +1,5 @@
+KissHit = 0 0 144 144
+KissHit1 = 146 0 144 144
+KissHit2 = 292 0 144 144
+KissHit3 = 438 0 144 144
+KissHit4 = 584 0 144 144

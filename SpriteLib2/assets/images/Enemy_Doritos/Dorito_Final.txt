@@ -1,0 +1,2 @@
+Dorito = 0 0 111 126
+doritosEnemyPushBack = 113 0 111 123
